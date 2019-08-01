@@ -1,1 +1,1 @@
-# hadoop-examples
+hadoop结合mapreduce的入门例子
