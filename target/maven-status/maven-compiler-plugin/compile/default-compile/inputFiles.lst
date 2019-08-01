@@ -1,0 +1,11 @@
+D:\hadoop-examples\src\main\java\com\bz\hadoop\MaxTemperatureReducer.java
+D:\hadoop-examples\src\main\java\com\bz\hadoop\test\MaxTemperatureMapperV2.java
+D:\hadoop-examples\src\main\java\com\bz\hadoop\hdfs\FileSystemCat.java
+D:\hadoop-examples\src\main\java\com\bz\hadoop\hdfs\SequenceFileWriteDemo.java
+D:\hadoop-examples\src\main\java\com\bz\hadoop\hdfs\FileCopyWithProgress.java
+D:\hadoop-examples\src\main\java\com\bz\hadoop\test\MaxTemperatureMapperV1.java
+D:\hadoop-examples\src\main\java\com\bz\hadoop\test\NcdcRecordParser.java
+D:\hadoop-examples\src\main\java\com\bz\hadoop\MaxTemperatureMapper.java
+D:\hadoop-examples\src\main\java\com\bz\hadoop\MaxTemperature.java
+D:\hadoop-examples\src\main\java\com\bz\hadoop\MaxTemperatureWithCombiner.java
+D:\hadoop-examples\src\main\java\com\bz\hadoop\MaxTemperatureDriver.java

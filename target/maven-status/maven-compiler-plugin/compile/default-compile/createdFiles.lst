@@ -1,0 +1,12 @@
+com\bz\hadoop\hdfs\SequenceFileWriteDemo.class
+com\bz\hadoop\test\NcdcRecordParser.class
+com\bz\hadoop\hdfs\FileSystemCat.class
+com\bz\hadoop\MaxTemperature.class
+com\bz\hadoop\MaxTemperatureReducer.class
+com\bz\hadoop\test\MaxTemperatureMapperV1.class
+com\bz\hadoop\hdfs\FileCopyWithProgress.class
+com\bz\hadoop\MaxTemperatureMapper.class
+com\bz\hadoop\MaxTemperatureWithCombiner.class
+com\bz\hadoop\test\MaxTemperatureMapperV2.class
+com\bz\hadoop\hdfs\FileCopyWithProgress$1.class
+com\bz\hadoop\MaxTemperatureDriver.class
